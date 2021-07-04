@@ -1,5 +1,5 @@
 {
-  "name": "@livecycle/rrweb-snapshot",
+  "name": "@livecycle.io/rrweb-snapshot",
   "version": "1.1.7",
   "description": "rrweb's component to take a snapshot of DOM, aka DOM serializer",
   "scripts": {
